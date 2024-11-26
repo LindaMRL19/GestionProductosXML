@@ -1,0 +1,11 @@
+D:\ProgramLinda\GestionProductosXML\bin\Debug\GestionProductosXML.exe.config
+D:\ProgramLinda\GestionProductosXML\bin\Debug\GestionProductosXML.exe
+D:\ProgramLinda\GestionProductosXML\bin\Debug\GestionProductosXML.pdb
+D:\ProgramLinda\GestionProductosXML\obj\Debug\GestionProductosXML.csproj.AssemblyReference.cache
+D:\ProgramLinda\GestionProductosXML\obj\Debug\GestionProductosXML.csproj.SuggestedBindingRedirects.cache
+D:\ProgramLinda\GestionProductosXML\obj\Debug\GestionProductosXML.Form1.resources
+D:\ProgramLinda\GestionProductosXML\obj\Debug\GestionProductosXML.Properties.Resources.resources
+D:\ProgramLinda\GestionProductosXML\obj\Debug\GestionProductosXML.csproj.GenerateResource.cache
+D:\ProgramLinda\GestionProductosXML\obj\Debug\GestionProductosXML.csproj.CoreCompileInputs.cache
+D:\ProgramLinda\GestionProductosXML\obj\Debug\GestionProductosXML.exe
+D:\ProgramLinda\GestionProductosXML\obj\Debug\GestionProductosXML.pdb
